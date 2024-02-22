@@ -1,7 +1,7 @@
 #  Electric Vehicle Adoption Analysis
 In this project, I analyze the adoption rate of electric vehicles over the years. We observe the trends such as the increase in the number of electric vehicles by model year, the most popular makes and models, and the geographical distribution of electric vehicles.
 
-Skills: Time series analysis, data visualization (matplotlib or seaborn)
+Skills: Time series analysis, data visualization (matplotlib)
 
 ### Electric Vehicle Registrations by Model Year
 ![image](https://github.com/shamiya829/ev-adoption/assets/75193263/b8e785e2-db0e-4093-9a2b-773b5cd1c837)
